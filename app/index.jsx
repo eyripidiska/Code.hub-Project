@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Dashboard from "./Container/Dashboard";
+import Dashboard from "./Containers/Dashboard";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./app.css";
 
